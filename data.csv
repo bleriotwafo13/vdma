@@ -1,29 +1,29 @@
-Program Network,Viewer Hometown,Number of Viewers
-Sports,CBS,Pittsburgh,1
-Sports,CBS,New York,2
-Sports,CBS,Boston,3
-Sports,CBS,Cleveland,4
-ABC,Pittsburgh,5  
-ABC,New York,6
-ABC,Boston,7
-ABC,Cleveland,8
-SyFy,Pittsburgh,9
-SyFy,New York,10
-SyFy,Boston,11
-Science Fiction,SyFy,Cleveland,12
-Science Fiction,CBS,Pittsburgh,13
-Science Fiction,CBS,New York,14
-Science Fiction,CBS,Boston,15
-Science Fiction,CBS,Cleveland,16
-Science Fiction,CBS,Pittsburgh,17
-Science Fiction,CBS,New York,18
-Science Fiction,CBS,Boston,19
-Science Fiction,CBS,Cleveland,20
-Mystery,ABC,Pittsburgh,21
-Mystery,ABC,New York,22
-Mystery,ABC,Boston,23
-Mystery,ABC,Cleveland,24
-Mystery,CBS,Pittsburgh,25
-Mystery,CBS,New York,26
-Mystery,CBS,Boston,27
-Mystery,CBS,Cleveland,28
+X Achse,Y Achse
+Pittsburgh,1
+New York,2
+Boston,3
+Cleveland,4
+Pittsburgh,5  
+New York,6
+Boston,7
+Cleveland,8
+Pittsburgh,9
+New York,10
+Boston,11
+Cleveland,12
+Pittsburgh,13
+New York,14
+Boston,15
+Cleveland,16
+Pittsburgh,17
+New York,18
+Boston,19
+Cleveland,20
+Pittsburgh,21
+New York,22
+Boston,23
+Cleveland,24
+Pittsburgh,25
+New York,26
+Boston,27
+Cleveland,28
