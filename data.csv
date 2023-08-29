@@ -1,29 +1,29 @@
-Program Title,Program Genre,Program Network,Viewer Hometown,Number of Viewers
-Steelers Tonight!,Sports,CBS,Pittsburgh,1
-Steelers Tonight!,Sports,CBS,New York,2
-Steelers Tonight!,Sports,CBS,Boston,3
-Steelers Tonight!,Sports,CBS,Cleveland,4
-The Dawg Pound,Sports,ABC,Pittsburgh,5  
-The Dawg Pound,Sports,ABC,New York,6
-The Dawg Pound,Sports,ABC,Boston,7
-The Dawg Pound,Sports,ABC,Cleveland,8
-The Expanse,Science Fiction,SyFy,Pittsburgh,9
-The Expanse,Science Fiction,SyFy,New York,10
-The Expanse,Science Fiction,SyFy,Boston,11
-The Expanse,Science Fiction,SyFy,Cleveland,12
-Star Trek Discovery,Science Fiction,CBS,Pittsburgh,13
-Star Trek Discovery,Science Fiction,CBS,New York,14
-Star Trek Discovery,Science Fiction,CBS,Boston,15
-Star Trek Discovery,Science Fiction,CBS,Cleveland,16
-Twilight Zone,Science Fiction,CBS,Pittsburgh,17
-Twilight Zone,Science Fiction,CBS,New York,18
-Twilight Zone,Science Fiction,CBS,Boston,19
-Twilight Zone,Science Fiction,CBS,Cleveland,20
-Crime Patrol,Mystery,ABC,Pittsburgh,21
-Crime Patrol,Mystery,ABC,New York,22
-Crime Patrol,Mystery,ABC,Boston,23
-Crime Patrol,Mystery,ABC,Cleveland,24
-Forensic Files,Mystery,CBS,Pittsburgh,25
-Forensic Files,Mystery,CBS,New York,26
-Forensic Files,Mystery,CBS,Boston,27
-Forensic Files,Mystery,CBS,Cleveland,28
+Program Network,Viewer Hometown,Number of Viewers
+Sports,CBS,Pittsburgh,1
+Sports,CBS,New York,2
+Sports,CBS,Boston,3
+Sports,CBS,Cleveland,4
+ABC,Pittsburgh,5  
+ABC,New York,6
+ABC,Boston,7
+ABC,Cleveland,8
+SyFy,Pittsburgh,9
+SyFy,New York,10
+SyFy,Boston,11
+Science Fiction,SyFy,Cleveland,12
+Science Fiction,CBS,Pittsburgh,13
+Science Fiction,CBS,New York,14
+Science Fiction,CBS,Boston,15
+Science Fiction,CBS,Cleveland,16
+Science Fiction,CBS,Pittsburgh,17
+Science Fiction,CBS,New York,18
+Science Fiction,CBS,Boston,19
+Science Fiction,CBS,Cleveland,20
+Mystery,ABC,Pittsburgh,21
+Mystery,ABC,New York,22
+Mystery,ABC,Boston,23
+Mystery,ABC,Cleveland,24
+Mystery,CBS,Pittsburgh,25
+Mystery,CBS,New York,26
+Mystery,CBS,Boston,27
+Mystery,CBS,Cleveland,28
